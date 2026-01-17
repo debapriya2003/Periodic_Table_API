@@ -1,5 +1,5 @@
 # 🧪 Periodic Table API
-![alt text](images\image.png)
+![alt text](images/image.png)
 ---
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
