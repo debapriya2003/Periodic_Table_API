@@ -920,17 +920,6 @@ All element images include proper attribution as per Creative Commons licenses. 
 - AR element explorer
 
 ---
-
-## 🚀 Future Roadmap
-
-- [ ] GraphQL endpoint
-- [ ] WebSocket support for real-time updates
-- [ ] Additional element properties (crystal structure, isotopes)
-- [ ] Compound data (molecules, reactions)
-- [ ] Multi-language support
-- [ ] API rate limiting options
-- [ ] Authentication for premium features
-
 ---
 
 <div align="center">
