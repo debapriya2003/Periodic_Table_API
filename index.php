@@ -891,7 +891,7 @@ api.php?element=79</pre>
         </div>
     </section>
 <div  style="align-items: flex-end;">
-                <a class="btn" href="PeriodicTable.html">Execute API Call</a>
+                <a class="btn" href="PeriodicTable.html">Visit Periodic Table</a>
             </div>
 </div>
 <footer style="background: var(--code-bg); color: white; padding: 3rem 2rem; text-align: center; margin-top: 4rem;">
